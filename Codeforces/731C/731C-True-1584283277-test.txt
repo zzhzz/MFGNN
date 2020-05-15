@@ -1,0 +1,13 @@
+0.69960668633235
+                     precision    recall  f1-score   support
+
+                 OK      0.726     0.734     0.730       616
+        WRONGANSWER      0.730     0.699     0.714       900
+MEMORYLIMITEXCEEDED      0.579     0.595     0.587        37
+  TIMELIMITEXCEEDED      0.691     0.736     0.713       401
+       RUNTIMEERROR      0.298     0.312     0.305        80
+
+           accuracy                          0.700      2034
+          macro avg      0.605     0.615     0.610      2034
+       weighted avg      0.701     0.700     0.700      2034
+
